@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Raleway';
+    font-size: 4px;
+    color: #7F7F7F;
+    
+}
+
+p{
+    font-family: 'Alice';
+    color: #4C4C4C;
+    text-align: center;
+    font-size: 13px;
+    font-weight: lighter;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+div{
+    text-align: center;
+    margin-top: -20px;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Raleway';
+    color: #555555;
+    
+}
