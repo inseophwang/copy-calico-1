@@ -18,6 +18,7 @@ p{
     padding-left: 50px;
     padding-right: 50px;
 
+
 }
 
 div{
@@ -31,3 +32,14 @@ a{
     color: #555555;
     
 }
+
+.right-footer{
+    float: right;
+    margin-top: 10px;
+}
+
+.left-footer{
+    float: left;
+    margin-top: 10px;
+}
+
